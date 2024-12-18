@@ -18,6 +18,9 @@ app.use('/api/v1/',products);
 
 app.use('/api/v1/',orders);
 
+app.get('/',(req,res)=>{
+    return res.send("hii")
+})
 
 app.listen(process.env.PORT, ()=>{
     console.log(`Server listening to port ${process.env.PORT} in ${process.env.NODE_ENV}`)

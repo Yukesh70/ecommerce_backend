@@ -1,0 +1,252 @@
+[{
+    "name": "OPPO F21s Pro 5G",
+    "price": 245.67,
+    "description": "OPPO F21s Pro 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/1.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "WRISTIO HD, Bluetooth Calling Smart Watch",
+    "price": 150.32,
+    "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+    "ratings": 3.5,
+    "images": [
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Flipkart",
+    "stock": 9
+  },
+  {
+    "name": "Dell Inspiron 3511 Laptop",
+    "price": 440.57,
+    "description": "Dell Inspiron 3511 11th Generation Intel Core i5-1135G7 Processor (8MB Cache, up to 4.2 GHz);Operating System: Windows 10 Home Single Language, English",
+    "ratings": 2,
+    "images": [
+      {
+        "image": "/images/products/3.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "Lenovo IdeaPad Slim 3 Laptop",
+    "price": 250.45,
+    "description": "Lenovo IdeaPad Slim 311th Gen Intel Core i5-1135G7 | Speed: 2.4 GHz (Base) - 4.2 GHz (Max) | 4 Cores | 8 Threads | 8 MB Cache",
+    "ratings": 4,
+    "images": [
+      {
+        "image": "/images/products/6.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "ASUS VivoBook 15 Laptop",
+    "price": 767.32,
+    "description": "ASUS VivoBook 15 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/7.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "PTron Newly Launched Tangent Sports, 60Hrs Playtime",
+    "price": 15.46,
+    "description": "Gigantic 60 + Hours of music playtime on a single charge; BT5.2 Wireless headphones with ENC (Environmental Noise Cancellation) Technology to enhance your voice quality over the voice calls",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/4.jpg"
+      }
+    ],
+    "category": "Headphones",
+    "seller": "Amazon",
+    "stock": 4
+  },
+  {
+    "name": "Campus Men's Maxico Running Shoes",
+    "price": 10.12,
+    "description": "The high raised back cover with extra padding.",
+    "ratings": 3,
+    "images": [
+      {
+        "image": "/images/products/5.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Ebay",
+    "stock": 6
+  },
+  {
+    "_id": {
+      "$oid": "67470e9c443ceceec0a8ef68"
+    },
+    "name": "HP Pavilion x360",
+    "price": 599.99,
+    "description": "HP Pavilion x360 Convertible 14-inch Laptop with Intel Core i5, 16GB RAM, and 512GB SSD for versatile performance.",
+    "ratings": 4.2,
+    "images": [
+      {
+        "image": "/images/products/8.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Best Buy",
+    "stock": 15
+  },
+  {
+    "_id": {
+      "$oid": "67470e9c443ceceec0a8ef70"
+    },
+    "name": "MacBook Air M2",
+    "price": 999.00,
+    "description": "Apple MacBook Air with M2 chip, 13-inch Liquid Retina Display, 8GB RAM, and 256GB SSD.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/9.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Apple Store",
+    "stock": 5
+  },
+  {
+    "_id": {
+      "$oid": "67470e9c443ceceec0a8ef71"
+    },
+    "name": "Asus TUF Gaming F15",
+    "price": 899.99,
+    "description": "Asus TUF Gaming F15 with Intel Core i7 processor, NVIDIA GeForce RTX 3050 GPU, and 16GB RAM for gaming enthusiasts.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/10.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Newegg",
+    "stock": 7
+  },
+  {
+    "_id": {
+      "$oid": "67470e9c443ceceec0a8ef72"
+    },
+    "name": "Acer Aspire 5",
+    "price": 499.99,
+    "description": "Acer Aspire 5 Slim Laptop with 15.6-inch Full HD display, AMD Ryzen 3 3200U processor, 4GB DDR4, and 128GB SSD.",
+    "ratings": 3.9,
+    "images": [
+      {
+        "image": "/images/products/11.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Walmart",
+    "stock": 20
+  },
+  {
+    "_id": {
+      "$oid": "67470e9c443ceceec0a8ef73"
+    },
+    "name": "Microsoft Surface Laptop 5",
+    "price": 1299.99,
+    "description": "Microsoft Surface Laptop 5 with Intel Evo Core i7, 16GB RAM, and 512GB SSD, designed for premium performance.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/12.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Microsoft Store",
+    "stock": 6
+  },
+  {
+    "_id": {
+      "$oid": "67470e9c443ceceec0a8ef74"
+    },
+    "name": "Razer Blade 15",
+    "price": 1899.99,
+    "description": "Razer Blade 15 Advanced Gaming Laptop with NVIDIA GeForce RTX 3080, 32GB RAM, and 1TB SSD.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/13.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Razer Store",
+    "stock": 4
+  },
+  {
+    "_id": {
+      "$oid": "67470e9c443ceceec0a8ef75"
+    },
+    "name": "Samsung Galaxy Book2 Pro",
+    "price": 1399.00,
+    "description": "Samsung Galaxy Book2 Pro with Intel Core i7 processor, AMOLED display, and 16GB RAM for ultimate productivity.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/14.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Samsung Store",
+    "stock": 8
+  },
+  {
+    "_id": {
+      "$oid": "67470e9c443ceceec0a8ef76"
+    },
+    "name": "HP Omen 16",
+    "price": 1599.99,
+    "description": "HP Omen 16 Gaming Laptop with AMD Ryzen 7, NVIDIA RTX 3060, and a high-refresh-rate display.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/15.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "HP Store",
+    "stock": 9
+  },
+  {
+  "_id": {
+    "$oid": "67470e9c443ceceec0a8ef77"
+  },
+  "name": "Google Pixelbook Go",
+  "price": 849.00,
+  "description": "Google Pixelbook Go with Intel Core i5, 8GB RAM, and a lightweight design for on-the-go productivity.",
+  "ratings": 4.6,
+  "images": [
+    {
+      "image": "/images/products/16.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Google Store",
+  "stock": 12
+ }
+]
